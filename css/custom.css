@@ -1,0 +1,55 @@
+.logo img {
+  width: 15rem;
+}
+
+.navImg {
+  width: 4rem;
+}
+
+.item img {
+  width: 14rem;
+  border: 2px solid rgb(255, 255, 255) !important;
+}
+
+.containerQR {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.QR {
+  /* margin: auto; */
+  /* display: block; */
+  border-radius: 20px;
+  width: 20rem;
+  border: 5px solid rgb(31, 165, 255);
+}
+
+.white {
+  color: aliceblue !important;
+}
+
+body {
+  background-color: #eee;
+}
+
+.screensSlides {
+  display: flex;
+  justify-content: space-between;
+}
+
+.screensSlides .item img {
+  width: 10rem;
+}
+
+#TESTIMONIAL {
+  padding: 4rem;
+}
+
+.choose-us-item {
+  font-size: 2rem;
+}
+
+.choose-us-item p {
+  font-size: 2rem;
+}
